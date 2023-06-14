@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/hamza.abdelhedi@umontreal.ca-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hamza.abdelhedi@umontreal.ca "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/hamza-abdelhedi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-abdelhedi/ "Connect on LinkedIn")
-[![Twitter Badge](https://img.shields.io/badge/-@hamza_abdelhedi-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=hamza_abdelhedi "Follow on Twitter")
+[![Twitter Badge](https://img.shields.io/badge/@hamza_abdelhedi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=hamza_abdelhedi "Follow on Twitter")
 
 I am a 2nd-year Graduate Student at Université de Montréal, Québec, Canada 🇨🇦, pursuing a Masters in Computer Science, who is passionate about Artificial Intelligence 🤖, Neuroscience 🧠,  Python programming 🐍, and open source :octocat:. I love to learn and contribute in any and every possible way. It's fun to code something that anyone on the web can easily see. I'am eager to make all my projects open source and reproducible. I also have a Telecommunication engineering and mathematics background from my studies in Tunisia 🇹🇳. I am also involved in a lot of *organizational works* in university related to clubs, hackathons, fests and workshops and helped in building many communities from scratch ⚡ .
 
