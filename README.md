@@ -30,7 +30,7 @@ Feel free to ask me anything (within reason). I am excited to absorb knowledge �
 
   ![Profile Views](https://komarev.com/ghpvc/?username=BabaSanfour&color=blue)
 
-  [![Profile last updated](https://img.shields.io/github/last-commit/BabaSanfour/BabaSanfour/master?label=Last%20updated&style=flat)] (https://github.com/BabaSanfour/BabaSanfour/commits)
+  [![Profile last updated](https://img.shields.io/github/last-commit/BabaSanfour/BabaSanfour/main?label=Last%20updated&style=flat)](https://github.com/BabaSanfour/BabaSanfour/commits)
 
 <!--
 **BabaSanfour/BabaSanfour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
