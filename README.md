@@ -1,4 +1,4 @@
-## Hi 👋, My name is [Hamza], They call me Papa Smurf (Baba Sanfour in 🇹🇳) and I ❤️ AI, Neuroscience and Open-Source 👨🏻‍💻 
+## Hi 👋, My name is Hamza, and I ❤️ AI, Neuroscience and Open-Source 👨🏻‍💻 
 
 [![Gmail Badge](https://img.shields.io/badge/hamza.abdelhedi@umontreal.ca-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hamza.abdelhedi@umontreal.ca "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-hamza-abdelhedi-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-abdelhedi/ "Connect on LinkedIn")
