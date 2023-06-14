@@ -4,12 +4,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/hamza-abdelhedi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-abdelhedi/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/@hamza_abdelhedi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=hamza_abdelhedi "Follow on Twitter")
 
-I am a 2nd-year Graduate Student at Université de Montréal, Québec, Canada 🇨🇦, pursuing a Masters in Computer Science, who is passionate about Artificial Intelligence 🤖, Neuroscience 🧠,  Python programming 🐍, and open source :octocat:. I love to learn and contribute in any and every possible way. It's fun to code something that anyone on the web can easily see. I'am eager to make all my projects open source and reproducible. I also have a Telecommunication engineering and mathematics background from my studies in Tunisia 🇹🇳. I am also involved in a lot of *organizational works* in university related to clubs, hackathons, fests and workshops and helped in building many communities from scratch ⚡ .
+I am a second-year graduate student at the Université de Montréal in Québec, Canada 🇨🇦, pursuing a Master's degree in Computer Science. My passion lies in Artificial Intelligence 🤖, Neuroscience 🧠, Python programming 🐍, and open source projects :octocat:. I thoroughly enjoy learning and contributing in various ways, particularly through coding projects that not only delve into the science but also aim to vulgarize and make it accessible to everyone. In addition to my current studies, I have a background in Telecommunication Engineering and Mathematics from my educational journey in Tunisia 🇹🇳. I am actively involved in various organizational activities within the university, such as clubs, hackathons, festivals, and workshops. I have contributed to building numerous communities from scratch ⚡.
 
-You can ask me anything (within reason). I am looking forward to absorb knowledge 🧠, gain experience 🏭, collaborate 🤝 and work on amazing projects 🏭 for the benefit of the world 🌍!
+Feel free to ask me anything (within reason). I am excited to absorb knowledge 🧠, gain experience 🏭, collaborate 🤝, and work on amazing projects 🏭 for the betterment of the world 🌍!
 
 - 📭 [Reach out](#hi-there-Hamza-here) for help with M.Sc CS in Canada, AI, Machine Learning, Python, and Neuroscience
-- 💬 Talk to me about if aliens 👽 actually exists, we are living in a simulation 🖥️, and everything in between
+- 💬 Let's embark on a profound exploration of consciousness, challenge the very nature of our reality and unravel the mysteries of our history, while venturing into the captivating realms of cosmology
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 
 
