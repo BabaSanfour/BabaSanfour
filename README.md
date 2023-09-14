@@ -29,6 +29,8 @@ Feel free to ask me anything (within reason). I am excited to absorb knowledge ð
   <!--<a href="https://****.me/"><img src="https://github.com/****/***/raw/master/etc/laptop.png" align="right" height="200" /></a> -->
 
   [![My Github Stats](https://github-readme-stats.vercel.app/api?username=BabaSanfour&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/BabaSanfour)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=BabaSanfour&theme=dark&hide_border=false)<br/>
+
 
   ![Profile Views](https://komarev.com/ghpvc/?username=BabaSanfour&color=blue)
 
