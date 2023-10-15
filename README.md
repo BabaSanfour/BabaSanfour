@@ -6,11 +6,13 @@
 
 I am a second-year graduate student at the Université de Montréal in Québec, Canada 🇨🇦, pursuing a Master's degree in Computer Science. My passion lies in Artificial Intelligence 🤖, Neuroscience 🧠, Python programming 🐍, and open source projects :octocat:. I thoroughly enjoy learning and contributing in various ways, particularly through coding projects that not only delve into the science but also aim to vulgarize and make it accessible to everyone. In addition to my current studies, I have a background in Telecommunication Engineering and Mathematics from my educational journey in Tunisia 🇹🇳. I am actively involved in various organizational activities within the university, such as clubs, hackathons, conferences, and workshops. I have contributed to building numerous communities from scratch ⚡.
 
+- ⚡For more details you can visit my [personal website.](www.hamzaabdelhedi.com)
+
 Feel free to ask me anything (within reason). I am excited to absorb knowledge 🧠, gain experience 🏭, collaborate 🤝, and work on amazing projects 🏭 for the betterment of the world 🌍!
 
 - 📭 [Reach out](#hi-there-Hamza-here) for help with M.Sc CS in Canada, AI, Python, and Neuroscience
 - Currently Supervised by Dr. Karim Jerbi (Head of Computational and Cognitive Neuroscience Lab - CoCo 🥥 Lab) and Dr. Shahab Bakhtiari (Head of Systems Neuroscience and AI Lab - SNAIL 🐌 )
-- Funded by [UNIQUE, Unifying Neuroscience and Artificial Intelligence - Québec Research Center](https://www.unique.quebec) and [CEREBRUM](https://www.lecerebrum.ca/en/home/)
+- Funded by [UNIQUE, Unifying Neuroscience and Artificial Intelligence - Québec Research Center](https://www.unique.quebec), [CEREBRUM](https://www.lecerebrum.ca/en/home/) and the [Interdisciplinary Center for Brain and Learning - CIRCA][https://circa.openum.ca/en/a-propos/]
 - 💬 Let's embark on a profound exploration of consciousness, challenge the very nature of our reality and unravel the mysteries of our history, while venturing into the captivating realms of cosmology
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 
@@ -45,8 +47,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
