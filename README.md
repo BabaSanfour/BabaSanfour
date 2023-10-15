@@ -6,7 +6,7 @@
 
 I am a second-year graduate student at the Université de Montréal in Québec, Canada 🇨🇦, pursuing a Master's degree in Computer Science. My passion lies in Artificial Intelligence 🤖, Neuroscience 🧠, Python programming 🐍, and open source projects :octocat:. I thoroughly enjoy learning and contributing in various ways, particularly through coding projects that not only delve into the science but also aim to vulgarize and make it accessible to everyone. In addition to my current studies, I have a background in Telecommunication Engineering and Mathematics from my educational journey in Tunisia 🇹🇳. I am actively involved in various organizational activities within the university, such as clubs, hackathons, conferences, and workshops. I have contributed to building numerous communities from scratch ⚡.
 
-- ⚡For more details you can visit my [personal website.](www.hamzaabdelhedi.com)
+- ⚡For more details you can visit my [personal website.](http://www.hamzaabdelhedi.com)
 
 Feel free to ask me anything (within reason). I am excited to absorb knowledge 🧠, gain experience 🏭, collaborate 🤝, and work on amazing projects 🏭 for the betterment of the world 🌍!
 
