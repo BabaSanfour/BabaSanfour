@@ -12,7 +12,7 @@ Feel free to ask me anything (within reason). I am excited to absorb knowledge �
 
 - 📭 [Reach out](#hi-there-Hamza-here) for help with M.Sc CS in Canada, AI, Python, and Neuroscience
 - Currently Supervised by Dr. Karim Jerbi (Head of Computational and Cognitive Neuroscience Lab - CoCo 🥥 Lab) and Dr. Shahab Bakhtiari (Head of Systems Neuroscience and AI Lab - SNAIL 🐌 )
-- Funded by [UNIQUE, Unifying Neuroscience and Artificial Intelligence - Québec Research Center](https://www.unique.quebec), [CEREBRUM](https://www.lecerebrum.ca/en/home/) and the [Interdisciplinary Center for Brain and Learning - CIRCA][https://circa.openum.ca/en/a-propos/]
+- Funded by [UNIQUE, Unifying Neuroscience and Artificial Intelligence - Québec Research Center](https://www.unique.quebec), [CEREBRUM](https://www.lecerebrum.ca/en/home/) and the [Interdisciplinary Center for Brain and Learning - CIRCA](https://circa.openum.ca/en/a-propos/)
 - 💬 Let's embark on a profound exploration of consciousness, challenge the very nature of our reality and unravel the mysteries of our history, while venturing into the captivating realms of cosmology
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 
