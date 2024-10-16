@@ -1,6 +1,6 @@
 ## Hi 👋, My name is Hamza, and I ❤️ AI, Neuroscience and Open-Source 👨🏻‍💻 
 
-[![Gmail Badge](https://img.shields.io/badge/hamza.abdelhedi@umontreal.ca-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hamza.abdelhedi@umontreal.ca "Connect via Email")
+[![Gmail Badge](https://img.shields.io/badge/hamza.abdelhedii@gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hamza.abdelhedii@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/hamza-abdelhedi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-abdelhedi/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/@hamza_abdelhedi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=hamza_abdelhedi "Follow on Twitter")
 
