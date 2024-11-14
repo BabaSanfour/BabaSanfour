@@ -6,7 +6,7 @@
 
 I am a first year PhD student at the the faculty of medicine, Université de Montréal in Québec, Canada 🇨🇦, pursuing a degree in Biomedical Engineering. My passion lies in Artificial Intelligence 🤖, Neuroscience 🧠, Python programming 🐍, and open source projects :octocat:. I thoroughly enjoy learning and contributing in various ways, particularly through coding projects that not only delve into the science but also aim to vulgarize and make it accessible to everyone. In addition to my current studies, I recently obtrained a M.Sc in Artificial Intelligence from Mila/UdeM. Plus, I have a background in Telecommunication Engineering and Mathematics from my educational journey in Tunisia 🇹🇳. I am actively involved in various organizational activities within the university, such as clubs, hackathons, conferences, and workshops. I have contributed to building numerous communities from scratch ⚡. I recently developed an interest in Ethics and DEI in research as well as the misuse of AI in military applications.
 
-- ⚡For more details you can visit my [personal website.](http://www.hamzaabdelhedi.com)
+- ⚡For more details you can visit my [personal website.](https://hamzaabdelhedi.com)
 
 Feel free to ask me anything (within reason). I am excited to absorb knowledge 🧠, gain experience 🏭, collaborate 🤝, and work on amazing projects 🏭 for the betterment of the world 🌍!
 
