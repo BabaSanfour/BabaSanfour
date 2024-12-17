@@ -20,7 +20,8 @@ Feel free to ask me anything (within reason). I am excited to exchange knowledge
 
 ### 📫 How to reach me?
 - [Twitter](https://twitter.com/hamza_abdelhedi) 
-- [LinkedIn](https://www.linkedin.com/in/hamza-abdelhedi/) 
+- [LinkedIn](https://www.linkedin.com/in/hamza-abdelhedi/)
+- [BlueSky](https://bsky.app/profile/hamza-abdelhedi.bsky.social)
 <!-- - [My personal portfolio](http://) 
 - My personal blog- [Garima Codes](https://)
 - [Medium](https://medium.com/) 
@@ -38,11 +39,3 @@ Feel free to ask me anything (within reason). I am excited to exchange knowledge
   ![Profile Views](https://komarev.com/ghpvc/?username=BabaSanfour&color=blue)
 
   [![Profile last updated](https://img.shields.io/github/last-commit/BabaSanfour/BabaSanfour/main?label=Last%20updated&style=flat)](https://github.com/BabaSanfour/BabaSanfour/commits)
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
--->
