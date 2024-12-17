@@ -14,7 +14,7 @@ Feel free to ask me anything (within reason). I am excited to exchange knowledge
 - 📭 [Reach out](#hi-there-Hamza-here) for help with M.Sc/PhD in Canada, AI, Python, and Neuroscience.
 - Currently Supervised by Dr. Karim Jerbi (Head of Computational and Cognitive Neuroscience Lab - CoCo 🥥 Lab)
 - Funded by the Merit Scholarship from the AI Research Fund of the Faculty of Medicine
-- 💬 Me in five words? AI 🤖, Neuroscience 🧠, Python 🐍, open source projects :octocat: and community.
+- 💬 Me in five words? AI 🤖, Neuroscience 🧠, Python 🐍, open source projects :octocat: and volunteering.
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 
 
