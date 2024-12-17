@@ -4,16 +4,17 @@
 [![Linkedin Badge](https://img.shields.io/badge/hamza-abdelhedi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-abdelhedi/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/@hamza_abdelhedi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=hamza_abdelhedi "Follow on Twitter")
 
-I am a first year PhD student at the the faculty of medicine, Université de Montréal in Québec, Canada 🇨🇦, pursuing a degree in Biomedical Engineering. My passion lies in Artificial Intelligence 🤖, Neuroscience 🧠, Python programming 🐍, and open source projects :octocat:. I thoroughly enjoy learning and contributing in various ways, particularly through coding projects that not only delve into the science but also aim to vulgarize and make it accessible to everyone. In addition to my current studies, I recently obtrained a M.Sc in Artificial Intelligence from Mila/UdeM. Plus, I have a background in Telecommunication Engineering and Mathematics from my educational journey in Tunisia 🇹🇳. I am actively involved in various organizational activities within the university, such as clubs, hackathons, conferences, and workshops. I have contributed to building numerous communities from scratch ⚡. I recently developed an interest in Ethics and DEI in research as well as the misuse of AI in military applications.
+I am a first year Biomedical Engineering PhD student at the the faculty of medicine, Université de Montréal 🇨🇦. I have a MSc in AI from Mila/UdeM 🇨🇦 and an Engineering Diploma in communication with background in mathematics 🇹🇳. I work on using AI to understand the brain, with a focus on vision and decision making. I love to volunteer and contribute my time to different communities with a focus on margenalized ones. 
+
 
 - ⚡For more details you can visit my [personal website.](https://hamzaabdelhedi.com)
 
-Feel free to ask me anything (within reason). I am excited to absorb knowledge 🧠, gain experience 🏭, collaborate 🤝, and work on amazing projects 🏭 for the betterment of the world 🌍!
+Feel free to ask me anything (within reason). I am excited to exchange knowledge 🧠, gain experience 🏭, collaborate 🤝, and work on amazing projects 🏭 for the betterment of the world 🌍!
 
-- 📭 [Reach out](#hi-there-Hamza-here) for help with M.Sc/PhD in Canada, AI, Python, and Neuroscience
+- 📭 [Reach out](#hi-there-Hamza-here) for help with M.Sc/PhD in Canada, AI, Python, and Neuroscience.
 - Currently Supervised by Dr. Karim Jerbi (Head of Computational and Cognitive Neuroscience Lab - CoCo 🥥 Lab)
 - Funded by the Merit Scholarship from the AI Research Fund of the Faculty of Medicine
-- 💬 Let's embark on a profound exploration of consciousness, challenge the very nature of our reality and unravel the mysteries of our history, while venturing into the captivating realms of cosmology
+- 💬 Me in five words? AI 🤖, Neuroscience 🧠, Python 🐍, open source projects :octocat: and community.
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 
 
@@ -37,10 +38,6 @@ Feel free to ask me anything (within reason). I am excited to absorb knowledge �
   ![Profile Views](https://komarev.com/ghpvc/?username=BabaSanfour&color=blue)
 
   [![Profile last updated](https://img.shields.io/github/last-commit/BabaSanfour/BabaSanfour/main?label=Last%20updated&style=flat)](https://github.com/BabaSanfour/BabaSanfour/commits)
-
-<!--
-**BabaSanfour/BabaSanfour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
