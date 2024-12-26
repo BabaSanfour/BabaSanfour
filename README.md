@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/hamza-abdelhedi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-abdelhedi/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/@hamza_abdelhedi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=hamza_abdelhedi "Follow on Twitter")
 
-I am a first year Biomedical Engineering PhD student at the the faculty of medicine, Université de Montréal 🇨🇦. I have a MSc in AI from Mila/UdeM 🇨🇦 and an Engineering Diploma in communication with background in mathematics 🇹🇳. I work on using AI to understand the brain, with a focus on vision and decision making. I love to volunteer and contribute my time to different communities with a focus on margenalized ones. 
+I am a first year Biomedical Engineering PhD student at the the faculty of medicine, Université de Montréal 🇨🇦. I have a MSc in AI from Mila/UdeM 🇨🇦 and an Engineering Diploma in telecommunication from SUPCOM with background in mathematics from pre-engineering studies 🇹🇳. I am interested in using AI to understand the brain, with a focus on vision and decision making. I love to volunteer and contribute my time to different communities with a focus on margenalized ones. 
 
 
 - ⚡For more details you can visit my [personal website.](https://hamzaabdelhedi.com)
