@@ -77,16 +77,20 @@
 </table>
 
 ---
-
-## 💬 A few things about me
+<details>
+  <summary><b>💬 A few things about me</b></summary>
 - **Telecommunication Engineer** (SUPCOM 🇹🇳) with a **Math/Physics** background (IPEIS 🇹🇳); **MSc in AI** (Mila/UdeM 🇨🇦).
 - ⚖️ I care about how **science meets society**: fairness, privilege, power, and access — and I try to act on it through volunteering and supporting marginalized voices.
 - 🌍 Big fan of **open, accessible science** — clearer writing, shareable resources, and building/maintaining things that lower the barrier to doing good research.
 - 🍄 **Smurf @ heart (BabaSanfour)** — always down for a coffee-chat ☕ about Python, Neuro-AI, or the random loops of academic life.
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
+</details>
 
 ---
 
-## 🤝 Collaboration
+<details>
+  <summary><b>🤝 Collaboration</b></summary>
 If you’re working on **MEG/EEG**, **Neuro-AI**, **biomarkers**, or **decision-making**, I’m usually happy to chat.  
 Best place to start: my website or LinkedIn.
+</details>
+
