@@ -16,20 +16,28 @@
   <a href="https://scholar.google.com/citations?user=xcX55QsAAAAJ&hl=en"><img alt="Scholar" src="https://img.shields.io/badge/Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white"></a>
 </p>
 
----
+<hr/>
 
-## 🔬 What I’m working on (now)
-- **ADHD & Epilepsy biomarkers** (signal → features → models → clinically meaningful patterns)
+<details>
+  <summary><b>🔬 What I’m working on</b></summary>
+
+- **ADHD & Epilepsy biomarkers** (signal → features → models → clinically meaningful patterns)  
 - **Decision-making × behavior**, and how decisions relate to **brain complexity**
 
-## 🧠 What I’m interested in (broadly)
-- Neuro-AI and representational alignment (brains ↔ models)
-- Vision, decision-making, consciousness, and brain disorders
-- Building open-source tools that make neuroimaging workflows easier
+</details>
 
----
+<details>
+  <summary><b>🧠 Interests</b></summary>
 
-## 🧰 Two tools I’m proud to maintain
+- Neuro-AI and representational alignment (brains ↔ models)  
+- Vision, decision-making, consciousness, and brain disorders  
+- Building open-source tools that make neuroimaging workflows easier  
+
+</details>
+
+<details>
+  <summary><b>🧰 Open-source (maintainer)</b></summary>
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -57,26 +65,32 @@
   </tr>
 </table>
 
----
+</details>
 
-## 🌉 Interdisciplinary background (the “why”)
+<details>
+  <summary><b>🌉 Interdisciplinary background</b></summary>
+
 I did my **engineering studies in Tunisia** (signals, systems, math), moved into **AI at Mila/UdeM**, and now work in **neuroimaging + Neuro-AI**.  
 That mix is why I enjoy both research questions *and* building tools people can actually use.
 
----
+</details>
 
-## 💬 A few things about me
-- I love to volunteer and contribute my time to different communities, especially with a focus on marginalized ones.
-- Feel free to ask me anything (within reason). I’m always happy to exchange knowledge, collaborate, and learn from others.
-- 💬 Me in five words? **AI 🤖, Neuroscience 🧠, Python 🐍, Open-Source :octocat:, and volunteering.**
+<details>
+  <summary><b>💬 A few things about me</b></summary>
+
+- I love to volunteer and contribute my time to different communities, especially with a focus on marginalized ones.  
+- Feel free to ask me anything (within reason). I’m always happy to exchange knowledge, collaborate, and learn from others.  
+- 💬 Me in five words? **AI 🤖, Neuroscience 🧠, Python 🐍, Open-Source :octocat:, and volunteering.**  
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 
----
+</details>
 
-## 📊 GitHub at a glance
+<details>
+  <summary><b>📊 GitHub at a glance</b></summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BabaSanfour&show_icons=true&hide_title=true&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
+  <!-- Variant A (common) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=BabaSanfour&show_icons=true&hide_title=true&hide_border=true" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=BabaSanfour&hide_border=true" alt="GitHub streak" />
 </p>
 
@@ -90,9 +104,12 @@ That mix is why I enjoy both research questions *and* building tools people can 
     <img src="https://img.shields.io/github/last-commit/BabaSanfour/BabaSanfour/main?label=Last%20updated&style=flat" alt="Last updated" />
   </a>
 </p>
+</details>
 
----
+<details>
+  <summary><b>🤝 Collaboration</b></summary>
 
-## 🤝 Collaboration
 If you’re working on **MEG/EEG**, **Neuro-AI**, **biomarkers**, or **decision-making**, I’m usually happy to chat.  
 Best place to start: my website or LinkedIn.
+
+</details>
