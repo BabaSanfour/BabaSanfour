@@ -2,10 +2,8 @@
 <p align="center">
   <b>A self-proclaimed smurf</b> who ❤️ building things at the intersection of <b>AI 🤖</b>, <b>Neuroscience 🧠</b>, and <b>Open-Source :octocat:</b>.
 </p>
-
 <p align="center">
-  Neuro-AI researcher (PhD, Biomedical Engineering @ Université de Montréal • Mila / CoCo Lab) <br/>
-  I build open-source tools and use AI + neuroimaging to study decision-making, brain disorders and model the brain.
+  Neuro-AI researcher (PhD, Biomedical Engineering @ Université de Montréal • Mila / CoCo Lab)
 </p>
 
 <p align="center">
