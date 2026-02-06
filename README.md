@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Hamza</h2>
 <p align="center">
-  <b>A self-proclaimed smurf</b> who ❤️ building things at the intersection of <b>AI 🤖</b>, <b>Neuroscience 🧠</b>, and <b>Open-Source 🧰</b>.
+  <b>A self-proclaimed smurf</b> who ❤️ building things at the intersection of <b>AI 🤖</b>, <b>Neuroscience 🧠</b>, and <b>Open-Source :octocat:</b>.
 </p>
 
 <p align="center">
@@ -20,7 +20,6 @@
 
 <hr/>
 
-<!-- TABLE 1: Working on / Interests (fixed 50/50, full width) -->
 <table align="center" width="100%" cellpadding="0" cellspacing="0">
   <colgroup>
     <col width="50%">
@@ -45,8 +44,8 @@
 </table>
 
 ---
-
-<h2> :octocat: Selected Open Source Projects</h2>
+<details>
+<summary><b> :octocat: Selected Open Source Projects</b></summary>
 <table align="center" width="100%" cellpadding="0" cellspacing="0">
   <colgroup>
     <col width="50%">
@@ -75,6 +74,7 @@
     </td>
   </tr>
 </table>
+</details>
 
 ---
 <details>
